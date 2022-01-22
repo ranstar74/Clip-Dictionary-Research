@@ -28,7 +28,7 @@ Name | Hash | Description
 :--- | :--- | :---
 door | 0xBEF83F1B | IK Target - Vehicle Door
 ik | 0xA5F6D578 | Switches Inverse-Kinematics On/Off
-objectvfx | 0xeea25b57 | Defines a Particle. Requires **vfxname** attribute.
+objectvfx | 0xeea25b57 | Defines a Particle. Requires **vfxname** attribute. Always defined with **register** and **trigger**.
 
 ### Known Attribute Types:
 Name | Hash | Type | Description
