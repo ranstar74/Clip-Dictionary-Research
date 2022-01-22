@@ -52,6 +52,7 @@ allowed | 0xa7c897b9
 vfxname | 0xab95f43a
 trigger | 0xc3afd061
 objectvfx | 0xeea25b57
+on | 0x88f29488 | bool 
 
 ### Codewalker XML Attribute Value Types:
 Name | Template | Description 
