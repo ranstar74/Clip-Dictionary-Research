@@ -28,6 +28,7 @@ Name | Hash | Description
 :--- | :--- | :---
 door | 0xBEF83F1B | IK Target - Vehicle Door
 ik | 0xA5F6D578 | Switches Inverse-Kinematics On/Off
+objectvfx | 0xeea25b57 | Defines a Particle. Requires **vfxname** attribute.
 
 ### Known Attribute Types:
 Name | Hash | Type | Description
@@ -49,9 +50,8 @@ stop | 0x930ca7f2 | bool | Switches Tag OFF/ON
 start | 0x84DC271F | bool | Switches Tag OFF/ON
 loopingaudio | 0xa31d8f23
 allowed | 0xa7c897b9
-vfxname | 0xab95f43a
+vfxname | 0xab95f43a | HashString | Particle name for **objectvfx** Tag
 trigger | 0xc3afd061
-objectvfx | 0xeea25b57
 on | 0x88f29488 | bool 
 
 ### Codewalker XML Attribute Value Types:
